@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="py_correlations",
+    name="py_qcorrelations",
     version="0.3",
     packages=find_packages(),
     install_requires=['simpy>=1.12', 'scipy>=1.9.3']
